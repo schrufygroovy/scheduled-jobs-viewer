@@ -1,0 +1,9 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+.react-calendar-timeline .rct-item .rct-item-content {
+    width: 100%;
+    padding: 0px 0px;
+}
